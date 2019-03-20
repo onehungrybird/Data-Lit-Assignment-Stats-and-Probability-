@@ -9,7 +9,7 @@ Assignment instructions:
    Part 1:  
    Follow the “Histograms and Density Plots in Python” tutorial to figure out which airline is most likely to get you to your destination    on time. 
    
-   Download the data file (formatted_flights.csv) here 
+   Download the data file (formatted_flights.csv) Note - Download Link is inserted below. 
    
    Tell us which airline you choose and why. 
    
